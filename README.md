@@ -8,7 +8,6 @@ Estudie la carrera de Diseño y Animación 3D en donde descubrí mi pasión por 
 ¿Por deberías elegirme?
 Soy una persona comprometida y apasionada con una gran capacidad para resolver problemas, soy autodidacta, todo el tiempo estoy aprendiendo algo nuevo por lo que mis habilidades y mi conocimiento mejoran constantemente, y, sobre todo, siempre estoy dispuesto a ayudar a los demás.
 
-Historial Laboral
 Actualmente cuento con experiencia únicamente académica en el mundo de la programación, a través de mi recorrido en el bootcamp de Henry desarrolle diversos proyectos lo que me permitió aprender distintas tecnologías.
 
 ## 🛠 Skills
