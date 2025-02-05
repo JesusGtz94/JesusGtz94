@@ -15,8 +15,9 @@
 - Express
 - Firebase
 - SQL
+- GraphQL
 
-## 📫 Contacto
+## 📫 Contact
 
 - Email: jesusgtz.dev@gmail.com
-- LinkedIn: https://www.linkedin.com/in/jesusgtz-javascript/
+- LinkedIn: [https://www.linkedin.com/in/jesusgtz-javascript/](https://www.linkedin.com/in/jesusgtzdev/)
