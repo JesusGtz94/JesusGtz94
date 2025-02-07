@@ -20,4 +20,4 @@
 ## 📫 Contact
 
 - Email: jesusgtz.dev@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/jesusgtz-javascript/](https://www.linkedin.com/in/jesusgtzdev/)
+- [LinkedIn](https://www.linkedin.com/in/jesusgtzdev/)
